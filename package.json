@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aibeb/JS-Interpreter/issues"
   },
-  "homepage": "https://github.com/aibeb/JS-Interpreter#readme"
+  "homepage": "https://github.com/aibeb/JS-Interpreter#readme",
+  "dependencies": {
+    "acorn": "^7.0.0"
+  }
 }
